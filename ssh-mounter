@@ -1,5 +1,5 @@
 #!/bin/bash
-
+  # all I did here was add a comment -cody
   # Config selection
   echo 'Select a config:'
   echo '1: root@host1:/'
